@@ -5,6 +5,6 @@ Pixel manipulation is used to manage a bunch of virtual particles which appear o
 
 The blurry change of colors effect along the simulation is created through a box blur algorithm.
 
-[![Demo CountPages alpha](https://j.gifs.com/E8vnxv.gif)](https://youtu.be/QoWbcOgS1KQ)
+<a href="https://gifs.com/gif/particle-fire-simulation-E8vnxv"><img src="https://j.gifs.com/E8vnxv.gif" title="Particle Explosion"/></a>
 
 This program is the result of an exercise proposed by John Purcell from the Cave of Programming. The program was implemented using the GCC compiler (GNU Compiler Collection) and Eclipse IDE for C/C++.
